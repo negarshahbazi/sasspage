@@ -1,0 +1,20 @@
+$black: #000;
+$white: #ffffff;
+$colorf: #008da0;
+$colorc: #00c1db;
+$gray: #d1d8d8;
+$width: 1rem;
+
+$header-color: darken($black, 20%);
+$navbar-color: lighten($black, 20%);
+$navbar-link-hover-color: lighten($white, 20%);
+
+$footer-color: darken($black, 30%);
+
+
+
+
+
+@mixin gradient($color1, $color2) {
+    background: linear-gradient(to bottom, $color1, $color2);
+}

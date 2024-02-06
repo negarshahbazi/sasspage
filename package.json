@@ -3,6 +3,6 @@
     "node-sass": "^9.0.0"
   },
   "scripts":{
-    "compile-scss" : "node-sass --watch racine/scss/ -o racine/dist"
+    "compile-scss" : "node-sass --watch racine/scss -o racine/dist"
   }
 }

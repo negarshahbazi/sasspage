@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  color: #feffff;
+  color: #ffffff;
   line-height: 1.6;
   overflow-x: hidden; }
 
 .logo {
   background-color: #008da0;
-  color: #020202;
+  color: #333333;
   text-align: center;
   padding: 1rem 5rem;
   font-size: 2rem;
@@ -22,11 +22,11 @@ body {
   .logo span {
     color: #008da0;
     font-weight: bold;
-    border: 1px solid #feffff;
+    border: 1px solid #ffffff;
     border-radius: 100%;
     padding: 8px;
     margin: 15px;
-    background-color: #feffff;
+    background-color: #ffffff;
     position: fixed;
     left: 0; }
 
@@ -39,21 +39,21 @@ body {
     margin: auto;
     width: 100%;
     text-align: center;
-    color: #feffff; }
+    color: #ffffff; }
     .home .welcome h1 {
       font-size: 3rem;
       margin-bottom: 50px;
-      border-bottom: 2px dotted #feffff;
+      border-bottom: 2px dotted #ffffff;
       padding: 30px; }
     .home .welcome p {
       font-size: 1rem;
       opacity: 0.7;
       margin-bottom: 10px; }
       .home .welcome p a {
-        border: 2px solid #feffff;
+        border: 2px solid #ffffff;
         border-radius: 10px;
         padding: 10px 20px;
-        color: #feffff;
+        color: #ffffff;
         text-decoration: none;
         margin: 10px; }
 
@@ -82,12 +82,12 @@ body {
         color: #008da0; }
       .services > div .service-block p {
         font-size: 1rem;
-        color: #020202; }
+        color: #000; }
 
 .contacts {
   background-color: #d1d8d8;
   padding: 40px;
-  color: #020202;
+  color: #000;
   opacity: 0.7; }
   .contacts form {
     margin-top: 20px; }
@@ -97,7 +97,7 @@ body {
       padding: 10px;
       margin-bottom: 20px;
       margin-top: 10px;
-      border: 1px solid #feffff;
+      border: 1px solid #ffffff;
       border-radius: 5px;
       border: 1px solid #008da0; }
     .contacts form textarea {
@@ -108,7 +108,7 @@ body {
       align-items: center;
       width: 400px;
       background-color: #008da0;
-      color: #feffff;
+      color: #ffffff;
       border: none;
       padding: 10px 20px;
       font-size: 15px;
